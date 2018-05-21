@@ -11,3 +11,6 @@
 
 ### Qoute 4
 "I don't always get back, but when I do, I'll be back."
+
+### Quote 5
+"One does not simply walk in to Mordor" - Boromir
