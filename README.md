@@ -8,3 +8,6 @@
 
 ### Quote 3
 "I'll be back" - A. Schwarzenegger
+
+### Qoute 4
+"I don't always get back, but when I do, I'll be back."
