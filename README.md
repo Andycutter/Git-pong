@@ -14,3 +14,6 @@
 
 ### Quote 5
 "One does not simply walk in to Mordor" - Boromir
+
+### Quote 6
+"M.I. does the dying. Fleet just does the flying" - Johnny (Starship Troopers)
